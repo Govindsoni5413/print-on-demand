@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 800" width="1920" height="800">
+  <rect width="1920" height="800" fill="#0C0C0D"/>
+  <line x1="960" y1="0" x2="960" y2="800" stroke="#222225" stroke-width="2"/>
+  <line x1="0" y1="400" x2="1920" y2="400" stroke="#222225" stroke-width="2"/>
+  <rect x="1200" y="180" width="450" height="440" fill="none" stroke="#333338" stroke-width="4"/>
+  <text x="1425" y="420" text-anchor="middle" font-family="monospace" font-weight="900" font-size="80" fill="#FFFFFF" letter-spacing="16">ARCHIVE</text>
+  <text x="1425" y="480" text-anchor="middle" font-family="monospace" font-size="20" fill="#888888" letter-spacing="10">SERIES 01 // IND</text>
+</svg>

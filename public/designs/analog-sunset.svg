@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+    <rect width="600" height="600" fill="none"/>
+    <circle cx="300" cy="270" r="100" fill="#FF4E50"/>
+    <rect x="180" y="290" width="240" height="8" fill="#121212"/>
+    <rect x="180" y="310" width="240" height="12" fill="#121212"/>
+    <rect x="180" y="335" width="240" height="18" fill="#121212"/>
+    <text x="300" y="420" text-anchor="middle" font-family="sans-serif" font-weight="900" font-size="34" fill="#F9D423" letter-spacing="8">ANALOG SUNSET</text>
+    <text x="300" y="460" text-anchor="middle" font-family="monospace" font-size="14" fill="#FFFFFF" letter-spacing="6">SYNTHESIS AUDIO LABS</text>
+  </svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+    <rect width="600" height="600" fill="none"/>
+    <rect x="100" y="140" width="400" height="280" rx="20" stroke="#FFFFFF" stroke-width="4" fill="none"/>
+    <text x="130" y="200" font-family="monospace" font-size="24" fill="#00FF66">&gt; INITIALIZING GHOST...</text>
+    <text x="130" y="240" font-family="monospace" font-size="18" fill="#AAAAAA">&gt; NEURAL LINK: CONNECTED</text>
+    <text x="130" y="280" font-family="monospace" font-size="18" fill="#AAAAAA">&gt; BIOMETRIC BYPASS: TRUE</text>
+    <text x="130" y="340" font-family="monospace" font-weight="bold" font-size="28" fill="#FF0055">SYSTEM OVERRIDE</text>
+    <line x1="100" y1="460" x2="500" y2="460" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="300" y="500" text-anchor="middle" font-family="monospace" font-size="14" fill="#888888" letter-spacing="6">REVNTRIX // CYBERNETIC PROTOCOL</text>
+  </svg>

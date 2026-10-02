@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+    <rect width="600" height="600" fill="none"/>
+    <text x="300" y="200" text-anchor="middle" font-family="sans-serif" font-weight="900" font-size="64" fill="#FFFFFF" letter-spacing="8">CHAOS</text>
+    <line x1="150" y1="240" x2="450" y2="240" stroke="#FF3333" stroke-width="8"/>
+    <text x="300" y="320" text-anchor="middle" font-family="sans-serif" font-weight="900" font-size="64" fill="#FFFFFF" letter-spacing="8">ORDER</text>
+    <rect x="200" y="370" width="200" height="50" fill="#FFFFFF"/>
+    <text x="300" y="405" text-anchor="middle" font-family="monospace" font-weight="bold" font-size="20" fill="#000000" letter-spacing="6">REVNTRIX</text>
+    <text x="300" y="470" text-anchor="middle" font-family="monospace" font-size="12" fill="#777777" letter-spacing="4">PARADOX OF INDUSTRIAL REASON</text>
+  </svg>

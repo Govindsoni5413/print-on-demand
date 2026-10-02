@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 800" width="1920" height="800">
+  <defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070709"/>
+      <stop offset="50%" stop-color="#120A1A"/>
+      <stop offset="100%" stop-color="#0A0A0F"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0.8" cy="0.4" r="0.6">
+      <stop offset="0%" stop-color="#FF0055" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#FF0055" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid1" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M 80 0 L 0 0 0 80" fill="none" stroke="#251633" stroke-width="1.5"/>
+    </pattern>
+  </defs>
+  <rect width="1920" height="800" fill="url(#bg1)"/>
+  <rect width="1920" height="800" fill="url(#grid1)"/>
+  <rect width="1920" height="800" fill="url(#glow1)"/>
+  <circle cx="1500" cy="400" r="220" fill="none" stroke="#00F0FF" stroke-width="4" stroke-dasharray="20,12" opacity="0.6"/>
+  <circle cx="1500" cy="400" r="140" fill="none" stroke="#FF0055" stroke-width="6" opacity="0.8"/>
+  <text x="1500" y="420" text-anchor="middle" font-family="sans-serif" font-weight="900" font-size="70" fill="#FFFFFF" opacity="0.9">東京</text>
+  <text x="1500" y="660" text-anchor="middle" font-family="monospace" font-size="20" fill="#00F0FF" letter-spacing="12">REVNTRIX // 2099</text>
+</svg>

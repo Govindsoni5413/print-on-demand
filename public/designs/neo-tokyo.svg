@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+    <rect width="600" height="600" fill="none"/>
+    <text x="300" y="160" text-anchor="middle" font-family="monospace" font-weight="900" font-size="52" fill="#FF2A85" letter-spacing="10">NEO TOKYO</text>
+    <text x="300" y="220" text-anchor="middle" font-family="sans-serif" font-weight="900" font-size="28" fill="#00F0FF" letter-spacing="16">2 0 9 9</text>
+    <circle cx="300" cy="330" r="100" stroke="#FF2A85" stroke-width="6" fill="none" stroke-dasharray="16,8"/>
+    <polygon points="300,250 370,390 230,390" fill="none" stroke="#00F0FF" stroke-width="6"/>
+    <text x="300" y="340" text-anchor="middle" font-family="sans-serif" font-weight="bold" font-size="36" fill="#FFFFFF">東京</text>
+    <text x="300" y="470" text-anchor="middle" font-family="monospace" font-size="16" fill="#888888" letter-spacing="8">[REVNTRIX CYBER DIVISION]</text>
+  </svg>

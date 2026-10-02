@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+    <rect width="600" height="600" fill="none"/>
+    <rect x="120" y="160" width="360" height="280" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+    <text x="300" y="240" text-anchor="middle" font-family="sans-serif" font-weight="900" font-size="44" fill="#FFFFFF" letter-spacing="10">REVNTRIX</text>
+    <text x="300" y="280" text-anchor="middle" font-family="monospace" font-size="14" fill="#AAAAAA" letter-spacing="8">AUTHENTIC HEAVYWEIGHT</text>
+    <line x1="160" y1="310" x2="440" y2="310" stroke="#AAAAAA" stroke-width="1"/>
+    <text x="300" y="350" text-anchor="middle" font-family="monospace" font-size="16" fill="#FFFFFF">COORD: 28.6139° N, 77.2090° E</text>
+    <text x="300" y="390" text-anchor="middle" font-family="monospace" font-weight="bold" font-size="22" fill="#E60000">SERIES 01 // ARCHIVE</text>
+  </svg>

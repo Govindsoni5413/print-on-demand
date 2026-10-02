@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+    <rect width="600" height="600" fill="none"/>
+    <ellipse cx="300" cy="250" rx="140" ry="70" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+    <ellipse cx="300" cy="250" rx="105" ry="50" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+    <ellipse cx="300" cy="250" rx="70" ry="30" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+    <circle cx="300" cy="250" r="4" fill="#E63946"/>
+    <text x="300" y="380" text-anchor="middle" font-family="sans-serif" font-weight="900" font-size="32" fill="#FFFFFF" letter-spacing="8">TOPOLOGY</text>
+    <text x="300" y="420" text-anchor="middle" font-family="monospace" font-size="16" fill="#A8DADC" letter-spacing="4">ELEVATION 5,400 M</text>
+    <text x="300" y="460" text-anchor="middle" font-family="monospace" font-size="12" fill="#888888">FIELD ARCHIVE</text>
+  </svg>

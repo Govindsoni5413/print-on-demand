@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+    <rect width="600" height="600" fill="none"/>
+    <polygon points="300,160 400,340 200,340" fill="none" stroke="#D4A373" stroke-width="6"/>
+    <circle cx="300" cy="280" r="40" fill="#D4A373"/>
+    <text x="300" y="410" text-anchor="middle" font-family="serif" font-weight="bold" font-size="40" fill="#FAEDCD" letter-spacing="6">DESERT ECHOES</text>
+    <text x="300" y="450" text-anchor="middle" font-family="monospace" font-size="16" fill="#CCD5AE" letter-spacing="8">WANDER UNBOUND</text>
+    <text x="300" y="490" text-anchor="middle" font-family="monospace" font-size="12" fill="#888888">REVNTRIX OUTPOST</text>
+  </svg>
